@@ -18,7 +18,7 @@ We provided with 2 ways to install the app.
 - By running the script
 
 We recommend using the installer if you don't have python properly installed in your machine.
-https://github.com/Sundaram070813/Student_portal
+https://github.com/Sundaram070813/Student-Portal-main/releases/tag/application
 
 However, if you want to run the scripts, then you must have [python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads) properly installed in your machine. Then use these 5 simple commands to run the app.
 
